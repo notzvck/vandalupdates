@@ -1,3 +1,4 @@
 Alpha 1.0
-- Started game development
-- Working lobby and matchmaking
+──────────────────────────────
+Started game development
+Working lobby and matchmaking
